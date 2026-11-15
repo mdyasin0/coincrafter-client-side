@@ -214,7 +214,7 @@ Create a `.env` file in the project root directory and configure the frontend en
 
  VITE_apiKey =
  
- VITE_authDomain
+ VITE_authDomain=
  
  VITE_projectId=
  

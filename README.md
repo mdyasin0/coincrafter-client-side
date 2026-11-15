@@ -11,7 +11,7 @@ A responsive, role-based micro-tasking and earning platform that connects task c
 
 ## Project Overview
 
-The Micro-Task and Earning Platform provides an interactive environment where Buyers can publish small tasks and Workers can complete those tasks in exchange for virtual coins.
+ coincrafter provides an interactive environment where Buyers can publish small tasks and Workers can complete those tasks in exchange for virtual coins.
 
 The application offers three role-based interfaces: Worker, Buyer, and Admin. Each role provides dedicated navigation, dashboards, and functionality according to the user's permissions.
 

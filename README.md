@@ -213,11 +213,17 @@ Create a `.env` file in the project root directory and configure the frontend en
 #  firebase key
 
  VITE_apiKey =
- VITE_authDomain=
+ 
+ VITE_authDomain
+ 
  VITE_projectId=
+ 
  VITE_storageBucket=
+ 
  VITE_messagingSenderId=
+ 
  VITE_appId=
+ 
 
 # imgbb key
 
